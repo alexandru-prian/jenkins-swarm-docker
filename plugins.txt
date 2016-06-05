@@ -1,5 +1,0 @@
-swarm|latest
-workflow-aggregator|latest
-docker-workflow|latest
-git|latest
-docker-plugin|latest
